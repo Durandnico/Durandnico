@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a CY-tech (EX: EISTI) Student UwU!
+  
 <!--
 **Durandnico/Durandnico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
