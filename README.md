@@ -21,17 +21,17 @@ Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="./img/vscode.svg" width="48" height="48" alt="V.S.Code" />
+        <img src="./vscode.svg" width="48" height="48" alt="V.S.Code" />
       </a>
       <br>V.S.Code
     </td>
     <td align="center" width="96">
-        <img src="./img/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+        <img src="./ubuntu.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Unix
     </td>
     <td align="center" width="96">
-        <img src="./img/coffee.svg" width="48" height="48" alt="Coffee" />
+        <img src="./coffee.svg" width="48" height="48" alt="Coffee" />
       </a>
       <br>Coffee ;p
     </td>
