@@ -16,7 +16,7 @@ Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
 <table align="center">
   <tr>
   <td align="center" width="96">
-        <img src="./img/C.svg" width="48" height="48" alt="C" />
+        <img src="./C.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
