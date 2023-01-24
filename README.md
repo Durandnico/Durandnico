@@ -5,10 +5,10 @@ Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
 
 <h2> I'm a CY-tech (EX: EISTI) Student studying computer science ! </h2>
   
-- :fr: I'm a pround french student :D 
+- 🇫🇷 I'm a pround french student :D 
 - 👀 I'm mainly interested by Artifical Intelligence, Software development and algorithms.
-- :iphone: Reach me : by phone (+33 6 62 20 89 86), by mail (nicod4956@gmail.com).
-- :yellow_heart: Things I love : my dogs :dog:, afterwork with friends :beers: and music :music:
+- 📱 Reach me : by phone (+33 6 62 20 89 86), by mail (nicod4956@gmail.com).
+- 💛 Things I love : my dogs 🐶, afterwork with friends 🍻 and music 🎵
 
 ## Favorite Tech
 > My favorite Tools, languages and stuff I like to work with.
