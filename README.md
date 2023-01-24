@@ -3,7 +3,7 @@ Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
 <img src="hello-there-kenobi.gif">
 </h1>
 
-<h2> I'm a CY-tech (EX: EISTI) Student studying computer science ! </h2>
+<h2> I'm a CY-tech (EX: EISTI) Student in computer science ! </h2>
   
 - 🇫🇷 I'm a pround french student :D 
 - 👀 I'm mainly interested by Artifical Intelligence, Software development and algorithms.
