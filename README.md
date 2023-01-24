@@ -18,7 +18,7 @@ Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
   <td align="center" width="96">
         <img src="./img/C.svg" width="48" height="48" alt="C" />
       </a>
-      <br>V.S.Code
+      <br>C
     </td>
     <td align="center" width="96">
         <img src="./img/vscode.svg" width="48" height="48" alt="V.S.Code" />
