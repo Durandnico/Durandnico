@@ -1,6 +1,5 @@
 <h1 align="center">
 Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
-<img src="hello-there-kenobi.gif">
 </h1>
 
 <h2> I'm a CY-tech (EX: EISTI) Student in computer science ! </h2>
