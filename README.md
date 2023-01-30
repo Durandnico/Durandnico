@@ -2,7 +2,7 @@
 Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
 </h1>
 
-<h2> I'm a CY-tech (EX: EISTI) Student in computer science ! </h2>
+<h2> I'm a CY-Tech (EX: EISTI) student in computer science ! </h2>
   
 - 🇫🇷 I'm a pround french student :D 
 - 👀 I'm mainly interested by Artifical Intelligence, Software development and algorithms.
@@ -10,7 +10,7 @@ Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
 - 💛 Things I love : my dogs 🐶, afterwork with friends 🍻 and music 🎵
 
 ## Favorite Tech
-> My favorite Tools, languages and stuff I like to work with.
+> My favorite tools, languages and stuff I like to work with.
 
 <table align="center">
   <tr>
