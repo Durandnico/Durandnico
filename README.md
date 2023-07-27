@@ -48,7 +48,7 @@ Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
     <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=Durandnico&show_icons=true&count_private=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues&custom_title=My%20GitHub%20Stats" alt="Durand Nicolas Stats" />
 </p>
 
-### Cote
->Any fool can write code that a computer can understand.
->Good programmers write code that humans can understand.
+### Quote
+>Any fool can write code that a computer can understand.  
+>Good programmers write code that humans can understand.  
 >- Martin Fowler
