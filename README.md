@@ -2,12 +2,12 @@
 Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
 </h1>
 
-<h2> I'm a CY-Tech (EX: EISTI) student in computer science ! </h2>
+<h2> AI Consultant 4 SopraSteriaNext </h2>
   
-- 🇫🇷 I'm a pround french student :D 
-- 👀 I'm mainly interested by Artifical Intelligence, Software development and algorithms.
-- 📱 Reach me : by phone (+33 6 62 20 89 86), by mail (nicod4956@gmail.com).
-- 💛 Things I love : my dogs 🐶, afterwork with friends 🍻 and music 🎵
+- 🇫🇷 I'm a pround french engineer :D 
+- 👀 I'm mainly interested by Artifical Intelligence, Data science and algorithms.
+- 📱 Reach me : by mail (durandnico@duck.com).
+- 💛 Things I love : my dogs 🐶, afterwork with friends 🍻 music 🎵 and buying RTX 3090 for local IA ?!?!?! 
 
 ## Favorite Tech
 > My favorite tools, languages and stuff I like to work with.
