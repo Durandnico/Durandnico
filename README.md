@@ -20,14 +20,19 @@ Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="./vscode.svg" width="48" height="48" alt="V.S.Code" />
+        <img src="./neovim.svg" width="48" height="48" alt="Neovim" />
       </a>
-      <br>V.S.Code
+      <br>Neovim
     </td>
     <td align="center" width="96">
-        <img src="./ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+        <img src="./vLLM-color.svg" width="48" height="48" alt="vLLM" />
       </a>
-      <br>Unix
+      <br>vLLM
+    </td>
+    <td align="center" width="96">
+        <img src="./linux.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
     </td>
     <td align="center" width="96">
         <img src="./coffee.svg" width="48" height="48" alt="Coffee" />
