@@ -25,7 +25,7 @@ Hey Hey! 👋 I'm Nicolas Erich Pierre Durand
       <br>Neovim
     </td>
     <td align="center" width="96">
-        <img src="./vLLM-color.svg" width="48" height="48" alt="vLLM" />
+        <img src="./vllm-color.svg" width="48" height="48" alt="vLLM" />
       </a>
       <br>vLLM
     </td>
